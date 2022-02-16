@@ -1,5 +1,8 @@
-# HasamiShogi
-# CS162 Portfolio Project
+# HasamiShogi CS162 Portfolio Project
+
+This project was the Portfolio Project for my CS162 class. The requirements for this project were to make a playable game, where 2 players can input legal moves. Below were the instructors for this project and all that we were suppose to implement.
+
+
 
 Write a class named HasamiShogiGame for playing an abstract board game called hasami shogi.   We'll be using the rules for "**Variant 1**" on [the Wikipedia page](https://en.wikipedia.org/wiki/Hasami_shogi), including the diagram of the starting position. Custodian captures may be made on multiple sides (up to 3 sides) of the moved piece. For example if the black piece on square h6 in the diagram below moves to square c6, then the red pieces at c4, c5, and b6 would be captured. If instead, the black piece at h6 moves to h1, then the red pieces at e1, f1, g1, and i1 would be captured.
 
